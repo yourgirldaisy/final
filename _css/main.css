@@ -1,0 +1,27 @@
+* {
+    color:#725350;
+    background-color:#FFBAB3;
+    font-family:French Script MT;
+    font-size:30px;
+}
+h1{
+    font-size:45px;
+}
+h2{
+    font-size:35px;
+}
+#nav li {
+    text-decoration:none;
+    display:inline;
+    border-right:1px solid #bbb;
+    background-color:#FFAD97;
+    list-style:circle;
+}
+a {
+    text-decoration:none;
+}
+#nav ul{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
